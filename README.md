@@ -76,10 +76,10 @@ A visual representation of my current technical focus and self-assessed speciali
 
 | Technology Domain | Focus & Specialization | Status |
 | :--- | :---: | :--- |
-| **C# / .NET Desktop Apps** | ![80%](https://geps.dev/progress/85?color=2ecc71) | Core Specialization |
-| **Database Design & SQL** | ![90%](https://geps.dev/progress/75?color=2ecc71) | Active Architecture |
-| **Android Development (Java)** | ![60%](https://geps.dev/progress/60?color=2ecc71) | Secondary Focus |
-| **System Tools & Git** | ![60%](https://geps.dev/progress/70?color=2ecc71) | Daily Workflow |
+| **C# / .NET Desktop Apps** | ![80%](https://geps.dev/progress/80?color=2ecc71) | Core Specialization |
+| **Database Design & SQL** | ![85%](https://geps.dev/progress/85?color=2ecc71) | Active Architecture |
+| **Android Development (Java)** | ![50%](https://geps.dev/progress/50?color=2ecc71) | Secondary Focus |
+| **System Tools & Git** | ![60%](https://geps.dev/progress/60?color=2ecc71) | Daily Workflow |
 
 ---
 
